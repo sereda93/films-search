@@ -1,0 +1,11 @@
+.card-container {
+  display: flex;
+  margin-top: 20px; }
+  .card-container .card-left {
+    width: 30%; }
+  .card-container .card-right {
+    width: 70%; }
+    .card-container .card-right .chipWrapper {
+      display: flex;
+      flex-wrap: wrap;
+      margin: -4px; }
